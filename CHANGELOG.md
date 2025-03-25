@@ -43,6 +43,21 @@
  - `volume-off`
  - `waves-ladder`
  - `wind-arrow-down`
+ - `circle-small`
+ - `clock-fading`
+ - `funnel-plus`
+ - `funnel-x`
+ - `funnel`
+ - `mars-stroke`
+ - `mars`
+ - `non-binary`
+ - `saudi-riyal`
+ - `shield-user`
+ - `shrimp`
+ - `square-round-corner`
+ - `transgender`
+ - `venus-and-mars`
+ - `venus`
 
 ### Updated
  - `align-center`
@@ -144,6 +159,11 @@
  - `volume-x`
  - `volume`
  - `wind`
+ - `beef`
+ - `brackets`
+ - `circle-slash-2`
+ - `infinity`
+ - `newspaper`
 
 ## [0.5.1] - 2024-07-29
 - Missed a lockfile update. This release has the same contents as 0.5.0
