@@ -55,6 +55,7 @@
  - `shield-user`
  - `shrimp`
  - `square-round-corner`
+ - `steering-wheel`
  - `transgender`
  - `venus-and-mars`
  - `venus`
